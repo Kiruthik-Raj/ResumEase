@@ -1,2 +1,2 @@
-# Resume-Screening-App
-Resume Screening App With Python and Machine Learning 
+# ResumEase
+A reume screening app develoepd using Python
