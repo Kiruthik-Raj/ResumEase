@@ -1,2 +1,2 @@
 # ResumEase
-A reume screening app develoepd using Python
+A reume screening app developed using Python
